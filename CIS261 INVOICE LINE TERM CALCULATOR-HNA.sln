@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CIS261 INVOICE LINE TERM CALCULATOR-HNA", "CIS261 INVOICE LINE TERM CALCULATOR-HNA.pyproj", "{C3391472-A94A-41DA-8B63-45633AD08524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3391472-A94A-41DA-8B63-45633AD08524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3391472-A94A-41DA-8B63-45633AD08524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A63FA6EA-6A3D-4923-9BD5-21E64A3EC891}
+	EndGlobalSection
+EndGlobal
